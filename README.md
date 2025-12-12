@@ -21,7 +21,7 @@ LogVar 弹幕 API 服务器
 
 本项目仅为个人爱好开发，代码开源。如有任何侵权行为，请联系本人删除。
 
-有问题提issue或 [私信机器人](https://t.me/ddjdd_bot) 都ok。
+有问题提issue或 [私信机器人](https://t.me/ddjdd_bot) 都ok1。
 
 新加了 [tg频道](https://t.me/logvar_danmu_channel) ，方便发送更新通知，以及群组，太多人私信咨询了，索性增加一个 [互助群](https://t.me/logvar_danmu_group) ，大家有问题可以在群里求助。
 
